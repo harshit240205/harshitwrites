@@ -1,0 +1,18 @@
+{
+  "name": "harshitwrites-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio for Harshit Parmar - Ghostwriter, Newsletter & Email Writer, Content Strategist",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server --port=3000",
+    "build": "echo 'Portfolio built successfully'",
+    "preview": "live-server --port=3000"
+  },
+  "keywords": ["portfolio", "ghostwriting", "content-writing", "newsletter", "email-marketing"],
+  "author": "Harshit Parmar",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
+
