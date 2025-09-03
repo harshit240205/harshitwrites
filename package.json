@@ -5,8 +5,9 @@
   "main": "index.html",
   "scripts": {
     "dev": "live-server --port=3000",
-    "build": "echo 'Portfolio built successfully'",
-    "preview": "live-server --port=3000"
+    "build": "echo 'Static portfolio built successfully - no build step required'",
+    "preview": "live-server --port=3000",
+    "start": "live-server --port=3000"
   },
   "keywords": ["portfolio", "ghostwriting", "content-writing", "newsletter", "email-marketing"],
   "author": "Harshit Parmar",
