@@ -12,7 +12,7 @@
       "dest": "/$1"
     }
   ],
-  "outputDirectory": ".",
+  "outputDirectory": "public",
   "cleanUrls": true,
   "trailingSlash": false
 }
